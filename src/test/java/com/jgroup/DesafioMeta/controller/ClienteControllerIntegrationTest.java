@@ -1,4 +1,4 @@
-package com.jgroup.DesafioMeta;
+package com.jgroup.DesafioMeta.controller;
 
 import com.jgroup.DesafioMeta.domain.Cliente;
 import com.jgroup.DesafioMeta.domain.Endereco;
